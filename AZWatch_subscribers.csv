@@ -1,0 +1,1001 @@
+subscriber_id,age_group,engagement_time,engagement_frequency,subscription_status
+14451,18-34,5.55,7,subscribed
+18386,under 18,5.12,12,subscribed
+12305,35 and over,4.25,4,churned
+17546,18-34,8.54,15,subscribed
+15399,18-34,12.12,20,subscribed
+13167,18-34,9.92,7,subscribed
+11435,35 and over,2.07,16,subscribed
+16158,under 18,7.02,15,subscribed
+16311,18-34,7.58,3,churned
+10245,35 and over,2.37,7,churned
+11648,35 and over,7.0,3,churned
+19509,18-34,7.32,19,subscribed
+17482,35 and over,7.0,5,churned
+18302,18-34,7.44,8,subscribed
+15637,35 and over,4.79,6,churned
+10628,18-34,10.27,6,subscribed
+11951,under 18,6.01,18,subscribed
+16784,18-34,5.06,5,churned
+12184,under 18,6.27,12,subscribed
+12658,under 18,5.83,3,churned
+10208,35 and over,7.0,5,churned
+17039,under 18,4.05,4,churned
+13892,35 and over,7.0,5,churned
+14436,35 and over,3.0,30,churned
+16026,18-34,11.06,12,subscribed
+12428,35 and over,2.26,10,churned
+14807,under 18,3.83,3,churned
+19854,18-34,5.72,11,subscribed
+11841,35 and over,3.54,7,churned
+13839,35 and over,5.0,3,churned
+19577,18-34,9.71,8,subscribed
+12833,18-34,9.41,5,churned
+14597,35 and over,2.33,11,churned
+19578,35 and over,7.0,6,churned
+16641,35 and over,4.75,5,subscribed
+11980,under 18,6.01,7,churned
+14625,18-34,6.92,6,churned
+12857,under 18,5.52,10,subscribed
+12831,35 and over,2.93,4,churned
+17651,18-34,8.43,8,subscribed
+10767,under 18,5.04,15,subscribed
+15831,under 18,6.38,13,subscribed
+15725,under 18,6.12,3,churned
+19488,35 and over,3.18,1,churned
+14727,35 and over,2.04,5,churned
+16428,under 18,7.74,3,churned
+13092,18-34,10.3,14,subscribed
+14296,under 18,6.87,19,subscribed
+16395,35 and over,2.42,9,churned
+13154,18-34,10.38,6,subscribed
+15896,under 18,5.88,15,subscribed
+12566,35 and over,4.41,3,churned
+19769,35 and over,3.54,2,churned
+13411,under 18,3.34,5,churned
+12390,under 18,6.84,16,subscribed
+16881,18-34,7.64,19,subscribed
+16036,35 and over,4.92,24,subscribed
+12952,35 and over,3.37,8,churned
+16128,18-34,9.31,18,subscribed
+17040,under 18,6.12,19,subscribed
+16326,35 and over,2.59,21,churned
+17594,under 18,5.24,2,churned
+19915,under 18,6.9,8,subscribed
+14765,35 and over,1.96,16,subscribed
+11732,18-34,7.4,8,subscribed
+13480,18-34,11.15,10,subscribed
+11080,35 and over,7.0,2,churned
+15539,35 and over,5.8,23,subscribed
+12293,35 and over,7.74,14,subscribed
+18850,35 and over,6.0,6,churned
+10866,35 and over,2.21,7,churned
+16373,under 18,5.79,7,subscribed
+19791,35 and over,5.76,15,subscribed
+18539,18-34,3.55,15,churned
+12125,35 and over,5.42,12,subscribed
+16020,18-34,4.57,18,subscribed
+11484,35 and over,2.79,10,churned
+12236,35 and over,6.28,8,subscribed
+15098,35 and over,2.46,8,churned
+18570,under 18,5.85,9,subscribed
+13173,18-34,10.58,20,subscribed
+18909,35 and over,4.2,24,subscribed
+10597,under 18,6.35,11,subscribed
+12211,under 18,5.81,24,subscribed
+10350,35 and over,2.57,0,churned
+12745,35 and over,2.2,2,churned
+13541,18-34,10.08,5,subscribed
+12442,18-34,10.21,15,subscribed
+15645,35 and over,7.38,27,subscribed
+10458,35 and over,4.27,3,churned
+17540,18-34,9.29,6,churned
+13054,under 18,3.99,5,churned
+19212,18-34,12.6,18,subscribed
+15882,35 and over,3.73,3,churned
+12948,under 18,6.27,17,subscribed
+18784,18-34,9.68,18,subscribed
+16306,18-34,7.06,5,churned
+15375,18-34,8.5,19,subscribed
+16685,18-34,8.38,8,subscribed
+10701,18-34,9.33,16,subscribed
+12869,under 18,3.75,3,churned
+16787,35 and over,2.69,4,churned
+11942,18-34,8.48,4,churned
+19129,35 and over,9.71,21,subscribed
+15634,18-34,9.06,13,subscribed
+15463,35 and over,3.98,5,churned
+19948,35 and over,3.7,8,churned
+19148,under 18,6.85,4,churned
+17993,18-34,9.12,12,subscribed
+13075,18-34,7.43,26,subscribed
+13881,35 and over,2.7,7,churned
+10625,18-34,11.62,20,subscribed
+16680,35 and over,4.96,2,churned
+18965,35 and over,7.2,7,subscribed
+17175,18-34,9.83,7,subscribed
+18069,18-34,7.22,5,subscribed
+17158,35 and over,4.2,5,churned
+19109,under 18,6.54,5,churned
+14559,18-34,12.26,17,subscribed
+15606,18-34,9.62,13,subscribed
+17550,18-34,9.27,5,churned
+14824,18-34,9.64,9,subscribed
+14409,18-34,2.46,5,churned
+18933,35 and over,4.6,6,churned
+11923,18-34,7.71,21,subscribed
+11886,35 and over,3.93,5,churned
+15232,under 18,5.33,18,subscribed
+19131,under 18,2.88,4,churned
+13796,18-34,5.7,4,churned
+10875,18-34,7.91,10,subscribed
+17443,35 and over,3.87,19,subscribed
+12950,35 and over,6.53,6,subscribed
+19826,under 18,5.66,6,churned
+11245,18-34,8.82,10,subscribed
+13998,18-34,8.62,19,subscribed
+10361,35 and over,6.44,10,subscribed
+11856,18-34,8.89,12,subscribed
+14862,18-34,7.5,6,churned
+19889,18-34,9.52,14,subscribed
+12945,35 and over,2.8,8,churned
+12673,35 and over,5.0,5,churned
+19574,18-34,9.57,21,subscribed
+11014,35 and over,3.64,3,churned
+16074,35 and over,6.0,2,churned
+17181,18-34,8.57,19,subscribed
+19761,35 and over,2.88,6,churned
+17558,18-34,14.91,11,subscribed
+13706,35 and over,2.99,4,churned
+16028,18-34,8.9,5,churned
+18730,35 and over,2.43,2,churned
+15588,35 and over,7.55,12,subscribed
+17116,under 18,11.31,4,churned
+13162,under 18,5.7,10,subscribed
+17348,35 and over,4.63,12,subscribed
+13377,35 and over,3.3,10,churned
+17894,18-34,10.91,22,subscribed
+12255,35 and over,5.0,1,churned
+14359,35 and over,6.56,4,subscribed
+15618,18-34,10.45,6,subscribed
+11156,under 18,3.39,5,churned
+19522,under 18,8.54,3,churned
+16445,35 and over,8.92,10,subscribed
+19622,35 and over,8.79,12,subscribed
+17074,under 18,6.98,4,churned
+12023,18-34,5.22,10,churned
+10311,35 and over,2.78,9,churned
+12424,18-34,4.67,4,churned
+17519,18-34,8.49,5,churned
+11270,35 and over,3.57,5,churned
+14798,35 and over,2.92,13,churned
+16708,35 and over,4.96,7,churned
+19945,under 18,6.94,9,subscribed
+11631,18-34,8.12,7,churned
+18347,under 18,5.85,4,subscribed
+16453,18-34,4.87,9,churned
+12443,18-34,3.37,3,churned
+11879,18-34,12.53,14,subscribed
+10312,18-34,16.98,4,churned
+12330,18-34,9.19,16,subscribed
+16061,under 18,2.88,4,churned
+10823,18-34,7.2,11,subscribed
+11866,under 18,7.45,18,subscribed
+15586,35 and over,5.0,3,churned
+16800,under 18,4.35,3,churned
+15644,35 and over,6.38,16,subscribed
+11069,under 18,5.42,16,subscribed
+16012,35 and over,4.24,8,churned
+10123,18-34,4.75,6,churned
+16576,18-34,4.08,3,churned
+10542,18-34,6.07,8,subscribed
+11065,35 and over,2.3,5,churned
+15962,18-34,10.53,19,subscribed
+12411,under 18,7.95,11,subscribed
+13613,35 and over,3.65,4,churned
+12583,18-34,12.04,3,subscribed
+12663,35 and over,2.5,4,churned
+18470,35 and over,3.35,6,churned
+18908,35 and over,2.82,5,churned
+16375,under 18,6.58,1,churned
+14286,35 and over,2.32,4,churned
+14207,35 and over,6.92,14,subscribed
+18058,35 and over,6.0,3,churned
+10656,18-34,8.29,4,churned
+17197,under 18,4.42,6,churned
+10060,18-34,9.36,12,subscribed
+15172,under 18,3.94,9,churned
+18481,18-34,8.1,19,subscribed
+10089,35 and over,2.55,8,churned
+18741,18-34,10.05,14,subscribed
+11840,35 and over,4.4,7,churned
+14747,18-34,5.31,4,churned
+10925,35 and over,2.27,21,subscribed
+18379,35 and over,4.62,20,subscribed
+11608,18-34,6.91,11,subscribed
+12380,under 18,7.72,6,subscribed
+11033,under 18,6.71,17,subscribed
+15327,35 and over,5.66,9,subscribed
+15394,under 18,4.71,5,churned
+15817,35 and over,4.08,5,churned
+17793,under 18,7.0,11,subscribed
+11809,35 and over,6.54,7,subscribed
+18149,18-34,8.26,14,subscribed
+18487,35 and over,2.73,2,churned
+18275,18-34,9.48,11,subscribed
+11907,18-34,9.07,6,subscribed
+10268,35 and over,5.66,15,subscribed
+17150,18-34,7.13,9,churned
+10148,35 and over,3.51,4,churned
+14062,under 18,6.31,16,subscribed
+12298,18-34,12.35,19,subscribed
+16928,18-34,11.55,18,subscribed
+12692,35 and over,4.05,7,subscribed
+10000,18-34,7.18,4,subscribed
+19727,35 and over,2.61,6,churned
+12821,under 18,3.92,1,churned
+15651,under 18,5.82,5,churned
+16088,18-34,10.31,18,subscribed
+11258,under 18,7.32,11,subscribed
+13551,under 18,6.49,13,subscribed
+11471,under 18,3.61,4,churned
+12371,18-34,6.84,8,subscribed
+15590,18-34,12.61,12,subscribed
+16718,under 18,5.58,21,subscribed
+17021,35 and over,9.85,17,subscribed
+14372,35 and over,2.03,4,churned
+12603,35 and over,3.84,1,churned
+18441,under 18,9.27,5,churned
+18918,35 and over,6.58,16,subscribed
+19848,35 and over,7.0,22,subscribed
+10750,18-34,7.86,15,subscribed
+17200,18-34,7.34,6,churned
+16873,35 and over,6.94,4,subscribed
+19521,18-34,11.46,15,subscribed
+11785,under 18,6.45,4,churned
+17782,under 18,3.53,4,churned
+10403,18-34,3.86,6,churned
+13359,35 and over,9.42,13,subscribed
+14872,under 18,6.57,7,subscribed
+15648,18-34,10.61,16,subscribed
+16601,18-34,10.75,2,subscribed
+17064,35 and over,2.31,3,churned
+18952,35 and over,5.99,15,subscribed
+15220,under 18,6.51,15,subscribed
+10008,35 and over,5.06,10,subscribed
+11017,18-34,6.3,5,churned
+17515,35 and over,4.59,13,subscribed
+14400,under 18,4.91,3,churned
+19613,35 and over,7.61,22,subscribed
+15559,18-34,2.42,4,churned
+16349,under 18,8.01,10,subscribed
+18238,under 18,3.05,6,churned
+16366,35 and over,3.07,6,churned
+16252,18-34,8.11,5,churned
+10766,18-34,8.84,8,subscribed
+10644,18-34,5.71,22,subscribed
+18779,under 18,4.15,4,churned
+15764,under 18,4.18,8,churned
+13060,18-34,10.34,16,subscribed
+10719,35 and over,4.14,7,churned
+10378,35 and over,3.3,3,churned
+11621,35 and over,3.74,9,churned
+17354,under 18,6.31,11,subscribed
+15307,under 18,6.74,18,subscribed
+17341,under 18,5.79,6,subscribed
+10967,under 18,7.38,3,churned
+16442,35 and over,6.87,19,subscribed
+13761,under 18,6.65,17,subscribed
+19239,35 and over,4.12,4,churned
+19589,18-34,5.41,1,churned
+15393,35 and over,6.72,8,subscribed
+18408,under 18,7.37,25,subscribed
+18721,under 18,4.68,20,subscribed
+14312,under 18,3.48,7,churned
+19388,18-34,7.18,6,churned
+19457,35 and over,3.83,10,subscribed
+10181,35 and over,3.27,4,churned
+19144,18-34,10.86,6,churned
+19976,35 and over,7.25,14,subscribed
+12078,18-34,9.98,15,subscribed
+11032,18-34,8.68,7,subscribed
+11107,18-34,8.49,12,subscribed
+19340,35 and over,7.3,22,subscribed
+13254,under 18,5.71,5,churned
+16998,under 18,6.19,26,subscribed
+14345,35 and over,6.0,0,churned
+13850,18-34,6.81,10,subscribed
+19660,35 and over,3.08,2,churned
+19272,35 and over,5.71,8,subscribed
+11644,18-34,4.4,21,subscribed
+18254,under 18,9.15,2,churned
+15657,35 and over,5.66,17,subscribed
+18619,18-34,9.45,10,subscribed
+18531,under 18,2.96,3,churned
+11124,35 and over,4.6,12,subscribed
+13172,18-34,4.36,2,churned
+13313,18-34,10.6,6,churned
+17215,under 18,5.74,19,subscribed
+15662,35 and over,5.0,6,churned
+19683,under 18,7.34,10,subscribed
+13400,under 18,7.95,12,subscribed
+17417,18-34,9.49,18,subscribed
+15196,35 and over,4.56,13,subscribed
+11658,18-34,11.15,24,subscribed
+15951,35 and over,2.16,1,churned
+14329,35 and over,3.91,14,subscribed
+12542,18-34,13.69,5,churned
+16327,35 and over,4.12,8,churned
+10357,18-34,8.2,17,subscribed
+15207,18-34,9.02,19,subscribed
+13758,under 18,6.98,12,subscribed
+14222,under 18,6.59,19,subscribed
+13567,18-34,9.47,7,subscribed
+16514,35 and over,5.89,12,subscribed
+19751,18-34,8.83,15,subscribed
+18595,35 and over,5.34,4,churned
+12698,35 and over,6.99,12,subscribed
+12898,35 and over,4.95,5,churned
+13732,18-34,3.1,8,churned
+15494,18-34,8.08,12,subscribed
+16446,18-34,11.83,3,churned
+17830,under 18,3.67,5,churned
+18549,35 and over,5.0,14,subscribed
+10084,18-34,5.92,8,churned
+17318,35 and over,2.54,6,churned
+13221,under 18,4.98,21,subscribed
+15560,35 and over,2.8,5,churned
+10587,35 and over,6.97,7,subscribed
+13906,35 and over,2.53,8,churned
+12015,18-34,9.58,14,subscribed
+15911,35 and over,9.87,18,subscribed
+11138,under 18,5.55,6,churned
+16077,35 and over,2.98,3,churned
+13345,35 and over,2.99,0,churned
+15823,under 18,5.82,10,subscribed
+18811,18-34,7.49,16,subscribed
+16310,18-34,9.27,24,subscribed
+14664,35 and over,6.19,19,subscribed
+19810,under 18,5.22,8,churned
+18054,18-34,8.88,16,subscribed
+17191,18-34,9.65,3,subscribed
+18987,35 and over,2.95,3,churned
+19625,35 and over,2.4,8,churned
+17892,18-34,9.74,13,subscribed
+18533,under 18,5.11,13,subscribed
+18295,18-34,9.45,15,subscribed
+12179,35 and over,3.74,12,subscribed
+13378,35 and over,7.26,13,subscribed
+17538,under 18,5.56,5,churned
+16043,35 and over,7.01,19,subscribed
+16676,35 and over,6.23,16,subscribed
+12967,18-34,8.26,6,subscribed
+11945,35 and over,3.33,7,churned
+12713,35 and over,4.0,16,subscribed
+19745,under 18,5.25,9,subscribed
+17792,35 and over,4.12,21,subscribed
+19222,35 and over,2.98,9,churned
+18403,under 18,7.54,13,subscribed
+17543,18-34,9.35,4,churned
+17103,35 and over,6.72,18,subscribed
+14502,35 and over,6.75,9,subscribed
+15544,35 and over,3.82,5,churned
+15414,18-34,11.75,16,subscribed
+16574,18-34,8.73,22,subscribed
+16195,under 18,6.06,8,subscribed
+13039,18-34,7.92,21,subscribed
+18991,18-34,7.41,15,subscribed
+12590,35 and over,6.52,7,subscribed
+10986,under 18,5.5,2,churned
+10306,18-34,11.25,10,subscribed
+15435,35 and over,2.64,7,subscribed
+16177,18-34,11.68,8,subscribed
+19270,18-34,10.56,13,subscribed
+16051,18-34,8.37,21,subscribed
+19869,18-34,11.37,8,subscribed
+14800,35 and over,4.14,12,churned
+17992,35 and over,6.0,3,churned
+11937,35 and over,3.4,3,churned
+10005,35 and over,6.89,13,subscribed
+18910,35 and over,8.41,13,subscribed
+10334,18-34,7.26,14,subscribed
+15749,under 18,5.09,20,subscribed
+11493,35 and over,2.86,0,churned
+12817,35 and over,2.0,3,churned
+10707,18-34,10.9,9,subscribed
+12119,18-34,6.65,12,subscribed
+17531,18-34,7.84,10,subscribed
+16231,35 and over,7.0,3,churned
+19107,35 and over,5.97,11,subscribed
+11456,18-34,7.54,11,subscribed
+18962,18-34,6.84,4,churned
+13649,18-34,9.92,5,churned
+19318,under 18,7.91,12,subscribed
+15231,18-34,8.36,8,churned
+13670,18-34,14.16,16,subscribed
+18221,18-34,9.34,9,subscribed
+19127,35 and over,3.8,8,churned
+12347,18-34,12.98,3,churned
+19425,under 18,4.57,2,churned
+10898,35 and over,3.08,7,churned
+11290,35 and over,7.68,16,subscribed
+12885,18-34,6.95,21,subscribed
+14992,35 and over,3.26,4,churned
+17424,35 and over,6.0,5,churned
+19223,under 18,5.8,4,churned
+18060,18-34,4.1,5,churned
+14037,under 18,7.72,17,subscribed
+17208,18-34,8.7,6,subscribed
+16237,18-34,7.73,4,subscribed
+18852,18-34,10.19,5,subscribed
+10668,35 and over,6.42,23,subscribed
+10409,35 and over,0.41,16,subscribed
+12453,18-34,11.39,15,subscribed
+15535,35 and over,3.52,2,churned
+15915,35 and over,6.0,7,churned
+10006,35 and over,2.52,4,churned
+13760,35 and over,5.0,6,churned
+12704,under 18,4.31,11,churned
+10489,18-34,9.82,4,subscribed
+15440,35 and over,3.53,6,subscribed
+19707,under 18,5.62,4,churned
+10047,18-34,9.45,23,subscribed
+18113,under 18,10.71,3,churned
+10133,35 and over,3.29,1,churned
+13654,under 18,7.85,12,subscribed
+13232,35 and over,6.25,19,subscribed
+10372,35 and over,3.51,3,churned
+17437,35 and over,2.53,6,churned
+13629,35 and over,2.69,6,churned
+13803,35 and over,5.48,22,subscribed
+11839,18-34,9.27,10,subscribed
+11782,18-34,9.59,5,churned
+12077,35 and over,2.79,8,churned
+12541,35 and over,9.68,8,subscribed
+18553,18-34,6.11,10,subscribed
+13147,35 and over,3.95,5,churned
+14120,35 and over,6.4,21,subscribed
+10285,35 and over,8.51,21,subscribed
+13844,35 and over,4.72,5,churned
+13276,35 and over,7.0,4,churned
+16844,35 and over,3.63,4,churned
+13878,18-34,9.87,3,churned
+12990,35 and over,7.05,8,subscribed
+11529,under 18,5.2,3,churned
+16672,35 and over,3.56,8,churned
+12588,18-34,9.22,13,subscribed
+12173,35 and over,6.0,3,churned
+16726,35 and over,2.01,6,churned
+17910,18-34,6.07,20,subscribed
+12147,18-34,5.53,19,subscribed
+17865,18-34,7.98,24,subscribed
+18895,18-34,11.85,12,subscribed
+13197,under 18,6.82,2,churned
+19355,35 and over,4.21,2,churned
+19864,35 and over,1.56,3,churned
+11441,18-34,5.36,7,churned
+15785,18-34,7.52,11,subscribed
+10098,18-34,10.19,21,subscribed
+14986,35 and over,3.54,6,churned
+19947,18-34,6.68,16,subscribed
+14306,18-34,9.49,3,churned
+17603,35 and over,2.78,8,churned
+18645,18-34,5.6,7,subscribed
+18503,35 and over,5.53,6,subscribed
+13032,35 and over,3.53,6,churned
+15722,18-34,6.97,10,subscribed
+18432,35 and over,3.61,8,churned
+18344,35 and over,2.27,7,churned
+14467,35 and over,2.72,5,churned
+14185,under 18,7.23,7,subscribed
+17217,under 18,6.63,8,subscribed
+16346,35 and over,3.85,4,churned
+16583,under 18,5.14,3,churned
+18841,35 and over,4.32,15,subscribed
+13233,35 and over,3.36,16,subscribed
+12914,18-34,10.37,17,subscribed
+14008,35 and over,9.16,10,subscribed
+10142,18-34,8.29,16,subscribed
+11181,18-34,3.98,6,churned
+19768,under 18,6.64,9,subscribed
+11028,18-34,8.47,15,subscribed
+17411,18-34,9.17,16,subscribed
+18165,18-34,7.11,20,subscribed
+14393,18-34,13.72,11,subscribed
+14703,35 and over,3.64,2,churned
+14187,35 and over,1.6,2,churned
+17227,under 18,6.13,20,subscribed
+15620,under 18,6.91,6,subscribed
+16544,35 and over,3.21,8,churned
+11372,35 and over,7.21,12,subscribed
+10214,under 18,5.34,7,churned
+15723,35 and over,3.25,19,subscribed
+18203,under 18,5.23,10,subscribed
+12368,18-34,2.67,7,churned
+13810,35 and over,3.27,7,churned
+10132,35 and over,3.98,4,churned
+18376,35 and over,4.14,10,subscribed
+17908,under 18,3.8,12,churned
+15658,35 and over,4.78,19,subscribed
+16635,under 18,4.73,4,churned
+19775,35 and over,4.11,7,churned
+17332,18-34,8.93,24,subscribed
+12419,18-34,4.72,16,subscribed
+17927,under 18,5.11,9,subscribed
+12360,under 18,4.55,6,churned
+19454,35 and over,2.31,9,churned
+15280,18-34,5.59,22,subscribed
+19906,18-34,10.96,7,subscribed
+17018,18-34,11.19,18,subscribed
+12197,35 and over,7.43,4,subscribed
+12046,35 and over,3.6,5,churned
+14379,under 18,1.74,6,churned
+10314,35 and over,6.43,16,subscribed
+18657,18-34,7.91,5,churned
+18830,35 and over,3.86,4,churned
+18381,35 and over,9.18,12,subscribed
+18193,35 and over,2.77,9,churned
+11180,35 and over,6.28,15,subscribed
+11322,18-34,6.76,2,churned
+17742,35 and over,4.73,13,subscribed
+11883,35 and over,2.05,5,churned
+12084,18-34,7.8,17,subscribed
+17161,35 and over,2.54,0,churned
+12800,18-34,7.92,5,churned
+17722,18-34,5.36,21,subscribed
+10889,18-34,5.48,4,churned
+16944,35 and over,7.07,13,subscribed
+16591,35 and over,2.68,4,churned
+19389,under 18,4.52,9,churned
+19809,35 and over,2.24,3,churned
+16709,35 and over,1.56,20,subscribed
+18919,18-34,5.16,17,subscribed
+19284,35 and over,4.62,22,subscribed
+15805,35 and over,2.45,6,churned
+15844,18-34,6.7,17,subscribed
+18026,18-34,9.59,13,subscribed
+14722,18-34,10.7,22,subscribed
+11257,18-34,10.58,18,subscribed
+12503,under 18,6.97,10,subscribed
+17481,under 18,3.89,5,churned
+15584,35 and over,3.37,1,churned
+12523,18-34,5.06,14,subscribed
+19925,18-34,11.94,7,subscribed
+13058,35 and over,2.48,5,churned
+15047,35 and over,2.84,5,churned
+10225,35 and over,4.93,13,subscribed
+11584,35 and over,6.18,14,subscribed
+18823,35 and over,2.6,3,churned
+16257,under 18,3.89,6,churned
+16314,18-34,9.53,14,subscribed
+19884,35 and over,4.5,6,subscribed
+18611,under 18,2.59,5,churned
+10331,35 and over,6.22,22,subscribed
+16722,35 and over,5.26,15,subscribed
+19108,under 18,3.69,5,churned
+10051,18-34,9.54,16,subscribed
+13220,18-34,7.78,4,churned
+15583,18-34,8.27,2,churned
+16443,18-34,5.99,4,churned
+12451,18-34,8.77,4,subscribed
+14753,35 and over,3.27,0,churned
+11918,35 and over,5.83,20,subscribed
+14213,35 and over,2.8,5,churned
+12160,35 and over,3.11,4,churned
+16048,35 and over,0.79,5,churned
+17261,35 and over,2.25,22,subscribed
+14654,35 and over,4.77,5,churned
+11385,35 and over,2.32,6,churned
+11323,under 18,7.28,18,subscribed
+16644,under 18,7.24,23,subscribed
+19943,under 18,5.8,15,subscribed
+15317,18-34,7.56,4,churned
+13324,35 and over,1.24,4,churned
+14795,18-34,15.51,13,subscribed
+10680,under 18,6.38,21,subscribed
+18364,18-34,4.07,7,subscribed
+19293,18-34,7.48,14,subscribed
+19010,18-34,10.0,5,churned
+11134,18-34,9.62,8,subscribed
+14974,18-34,8.91,11,subscribed
+19508,35 and over,3.43,7,churned
+13867,35 and over,2.96,1,churned
+13484,35 and over,9.59,23,subscribed
+18494,18-34,6.45,3,churned
+15842,under 18,5.16,4,churned
+18926,under 18,5.99,6,churned
+17369,35 and over,3.4,6,churned
+17183,18-34,6.16,16,subscribed
+15865,35 and over,4.13,16,subscribed
+16145,18-34,0.28,7,churned
+11950,under 18,5.43,13,churned
+14247,35 and over,6.61,6,subscribed
+11606,under 18,5.42,16,subscribed
+11416,18-34,9.03,10,subscribed
+14732,under 18,5.29,4,churned
+17043,35 and over,4.41,4,churned
+10812,18-34,9.31,19,subscribed
+16610,35 and over,3.64,2,churned
+17167,35 and over,2.27,2,churned
+12959,under 18,6.54,5,churned
+18395,35 and over,3.01,7,subscribed
+15400,18-34,12.38,10,subscribed
+12748,35 and over,3.79,6,churned
+10550,18-34,9.07,7,subscribed
+19612,18-34,6.71,14,subscribed
+14905,18-34,8.13,14,subscribed
+15268,35 and over,3.34,9,subscribed
+10072,35 and over,3.13,5,churned
+16827,18-34,9.41,18,subscribed
+18960,18-34,16.53,7,churned
+10186,18-34,6.61,4,churned
+16917,35 and over,2.83,17,subscribed
+12680,under 18,7.68,7,churned
+13446,18-34,9.53,15,subscribed
+10582,35 and over,3.04,6,churned
+15316,35 and over,3.91,9,subscribed
+10279,35 and over,2.4,2,churned
+11946,under 18,6.83,9,subscribed
+13657,35 and over,4.48,3,subscribed
+11465,18-34,8.73,10,subscribed
+12809,35 and over,6.53,14,subscribed
+10973,18-34,9.89,6,churned
+15813,18-34,10.52,20,subscribed
+13788,35 and over,3.52,6,churned
+13451,under 18,7.14,20,subscribed
+11649,35 and over,1.41,7,churned
+11515,35 and over,4.88,16,subscribed
+15622,under 18,3.05,5,churned
+11418,35 and over,2.6,5,churned
+16545,under 18,6.16,4,churned
+12726,18-34,11.28,4,churned
+14998,35 and over,9.44,9,subscribed
+14378,under 18,5.99,19,subscribed
+13496,35 and over,6.57,10,subscribed
+19725,18-34,8.89,15,subscribed
+17365,35 and over,3.51,9,subscribed
+19644,under 18,8.6,21,subscribed
+13695,under 18,6.85,2,churned
+11159,under 18,6.97,19,subscribed
+16415,under 18,7.01,5,churned
+19067,18-34,8.2,45,subscribed
+16982,35 and over,5.23,5,churned
+19662,18-34,7.42,8,subscribed
+15157,35 and over,2.76,6,churned
+18424,under 18,3.69,5,churned
+18911,18-34,5.56,5,churned
+13461,under 18,5.48,14,subscribed
+19904,35 and over,7.05,20,subscribed
+12008,18-34,4.55,5,churned
+14916,under 18,6.83,18,subscribed
+13507,under 18,5.43,6,churned
+11275,18-34,9.87,15,subscribed
+10610,under 18,5.76,19,subscribed
+18831,35 and over,5.72,6,subscribed
+15643,35 and over,1.9,5,churned
+16835,35 and over,2.41,3,churned
+14601,under 18,2.01,11,churned
+17050,18-34,10.11,12,subscribed
+14653,18-34,12.69,13,subscribed
+13352,35 and over,2.61,1,churned
+12458,35 and over,3.21,15,subscribed
+10895,under 18,5.72,23,subscribed
+19494,under 18,5.17,8,churned
+18862,under 18,3.07,6,churned
+18112,35 and over,2.14,7,churned
+19733,18-34,9.58,24,subscribed
+13392,35 and over,2.72,7,churned
+19290,under 18,9.43,7,churned
+12200,35 and over,2.73,4,churned
+12690,under 18,6.4,11,churned
+18508,18-34,7.77,7,churned
+17276,18-34,8.72,17,subscribed
+12911,18-34,7.27,9,churned
+16853,35 and over,3.18,7,churned
+19282,18-34,10.05,14,subscribed
+17059,35 and over,6.77,22,subscribed
+10976,35 and over,4.67,19,subscribed
+13843,35 and over,3.84,3,churned
+15027,35 and over,1.94,3,churned
+19448,35 and over,7.62,22,subscribed
+12568,under 18,3.96,17,subscribed
+11077,under 18,3.56,9,subscribed
+16695,35 and over,4.2,18,subscribed
+10204,35 and over,3.1,8,churned
+15112,under 18,7.4,4,churned
+14435,18-34,9.19,16,subscribed
+10236,18-34,13.67,11,subscribed
+19896,35 and over,3.89,23,subscribed
+15794,18-34,9.04,5,churned
+16460,18-34,8.76,15,subscribed
+13148,35 and over,1.76,8,churned
+14262,18-34,8.45,7,subscribed
+15561,under 18,7.68,8,subscribed
+10661,under 18,6.79,15,subscribed
+14116,35 and over,7.11,20,subscribed
+14777,18-34,7.71,12,subscribed
+13804,18-34,10.66,15,subscribed
+10862,under 18,4.58,8,subscribed
+16111,35 and over,3.71,6,churned
+18515,under 18,6.18,9,subscribed
+10303,35 and over,3.31,5,churned
+14161,under 18,6.2,15,subscribed
+11409,18-34,8.07,16,subscribed
+16989,18-34,11.13,8,subscribed
+15796,35 and over,8.36,14,subscribed
+17413,under 18,4.42,2,churned
+13724,18-34,12.25,8,subscribed
+15289,18-34,10.0,11,subscribed
+18025,35 and over,3.28,4,churned
+12209,18-34,9.34,15,subscribed
+14579,under 18,6.57,20,subscribed
+18024,18-34,3.48,4,churned
+17684,35 and over,3.22,6,churned
+17325,under 18,6.68,21,subscribed
+10995,18-34,8.11,9,churned
+12842,under 18,5.3,15,subscribed
+17109,18-34,5.59,11,subscribed
+17721,18-34,9.58,3,churned
+10627,35 and over,8.67,14,subscribed
+15418,under 18,6.07,4,churned
+19526,18-34,4.37,13,subscribed
+17818,18-34,6.6,10,subscribed
+12891,18-34,7.22,15,subscribed
+11924,35 and over,3.77,18,subscribed
+19286,18-34,11.52,6,churned
+18620,under 18,5.1,14,subscribed
+13144,35 and over,3.92,20,subscribed
+17827,18-34,5.53,8,subscribed
+18525,35 and over,4.59,4,churned
+12098,18-34,10.6,13,subscribed
+11127,18-34,8.63,22,subscribed
+10242,35 and over,2.86,4,churned
+14712,35 and over,4.77,11,subscribed
+17708,under 18,8.21,7,subscribed
+12578,18-34,10.87,3,churned
+19907,18-34,10.61,8,churned
+16200,under 18,2.8,8,churned
+11919,18-34,5.35,7,churned
+16565,under 18,2.2,4,churned
+11402,18-34,9.78,16,subscribed
+18698,18-34,6.61,5,subscribed
+12913,35 and over,2.23,3,churned
+18869,35 and over,4.97,20,subscribed
+17859,under 18,7.53,10,subscribed
+17924,18-34,1.99,4,churned
+13371,35 and over,3.9,0,churned
+17469,18-34,8.85,6,subscribed
+18755,35 and over,1.96,3,churned
+18173,under 18,4.94,22,subscribed
+19834,18-34,8.41,6,churned
+19698,35 and over,4.26,11,subscribed
+19256,35 and over,4.18,8,subscribed
+18745,under 18,3.98,1,churned
+16186,18-34,8.9,20,subscribed
+17820,35 and over,2.13,4,churned
+10818,35 and over,2.2,6,churned
+14606,under 18,6.15,6,churned
+18740,35 and over,4.73,6,churned
+17118,35 and over,2.26,9,churned
+17121,35 and over,4.0,5,subscribed
+14622,18-34,0.22,4,churned
+16585,35 and over,5.44,12,subscribed
+14675,under 18,5.6,14,subscribed
+15520,18-34,4.8,8,churned
+19777,18-34,10.17,18,subscribed
+13957,18-34,10.54,17,subscribed
+18977,18-34,8.89,14,subscribed
+15552,35 and over,6.45,13,subscribed
+11885,35 and over,3.39,4,churned
+18810,18-34,10.86,18,subscribed
+15603,18-34,6.02,4,churned
+13782,35 and over,7.21,20,subscribed
+14819,18-34,9.37,17,subscribed
+19112,35 and over,2.84,3,churned
+10406,under 18,5.85,14,subscribed
+19940,18-34,12.51,13,subscribed
+13357,under 18,6.81,24,subscribed
+16723,35 and over,5.48,14,subscribed
+14390,under 18,6.53,16,subscribed
+17746,35 and over,4.09,5,churned
+15229,35 and over,2.99,3,churned
+12577,under 18,5.48,8,churned
+12556,35 and over,4.83,5,churned
+11320,18-34,8.95,8,subscribed
+13889,18-34,8.39,8,churned
+10027,35 and over,4.37,10,subscribed
+16967,35 and over,3.38,5,churned
+16757,18-34,9.37,22,subscribed
+11296,18-34,4.95,4,churned
+15919,18-34,11.69,18,subscribed
+15996,18-34,9.57,13,subscribed
+16391,under 18,4.99,23,subscribed
+17880,18-34,4.74,6,churned
+10979,35 and over,1.8,2,churned
+14498,18-34,8.16,21,subscribed
+13365,18-34,3.67,7,subscribed
+15929,under 18,6.2,10,subscribed
+14449,18-34,7.61,8,subscribed
+18006,18-34,4.46,7,churned
+13335,35 and over,7.59,8,subscribed
+14220,35 and over,5.87,19,subscribed
+13560,35 and over,6.97,8,subscribed
+10961,18-34,6.2,20,subscribed
+14282,under 18,6.18,24,subscribed
+17853,35 and over,2.37,5,churned
+19567,under 18,5.65,5,churned
+11476,under 18,6.53,16,subscribed
+19102,35 and over,2.46,0,churned
+12738,under 18,6.57,18,subscribed
+18278,18-34,5.47,6,churned
+15239,18-34,12.43,12,subscribed
+16953,35 and over,3.04,16,churned
+10864,18-34,7.06,9,subscribed
+11115,under 18,3.54,4,churned
+12388,under 18,8.26,8,churned
+12851,35 and over,4.25,7,churned
+17326,35 and over,2.02,9,churned
+12710,18-34,6.88,5,churned
+15447,under 18,5.88,3,churned
+10138,35 and over,2.84,4,churned
+12042,35 and over,4.24,3,churned
+14283,35 and over,3.39,2,churned
+14718,under 18,5.82,6,churned
+10779,18-34,0.38,7,churned
+17902,35 and over,1.03,7,churned
+18805,35 and over,3.41,6,churned
+16486,18-34,6.56,17,subscribed
+19044,18-34,8.23,11,subscribed
+11248,18-34,10.68,6,subscribed
+11927,35 and over,2.04,5,churned
+16668,18-34,7.78,16,subscribed
+16230,35 and over,3.0,4,churned
+15712,under 18,6.48,5,subscribed
+17123,18-34,10.82,15,subscribed
+18643,18-34,9.03,20,subscribed
+16180,35 and over,5.55,15,subscribed
+14534,35 and over,5.04,16,subscribed
+12010,18-34,8.88,18,subscribed
+11247,18-34,11.29,14,subscribed
+11151,18-34,8.49,12,subscribed
+12930,35 and over,5.53,7,subscribed
+11374,35 and over,7.7,15,subscribed
+17195,35 and over,4.0,5,churned
+12335,18-34,8.13,16,subscribed
+12099,18-34,6.47,4,churned
+16296,35 and over,1.6,4,churned
+14886,35 and over,5.92,7,subscribed
+19641,under 18,3.01,4,churned
+15481,35 and over,4.9,22,subscribed
+13505,35 and over,3.71,5,churned
+12951,under 18,6.23,20,subscribed
+18558,35 and over,4.05,5,churned
+14919,18-34,4.11,5,churned
+16764,18-34,7.44,3,subscribed
+18234,35 and over,2.5,26,subscribed
+13515,35 and over,1.32,3,churned
+17829,18-34,9.96,12,subscribed
+12684,35 and over,4.17,4,churned
+14064,under 18,6.03,6,subscribed
+17290,18-34,5.91,19,subscribed
+19253,18-34,8.64,1,churned
+12284,18-34,5.21,5,subscribed
+10941,18-34,7.63,14,subscribed
+13362,18-34,11.42,14,subscribed
+13423,under 18,6.32,12,subscribed
+16406,under 18,3.55,3,churned
+12050,under 18,6.89,9,subscribed
+15202,18-34,10.17,17,subscribed
+15541,35 and over,2.5,2,churned
+17592,18-34,9.48,6,subscribed
+17799,18-34,7.7,10,subscribed
+11842,18-34,9.54,9,subscribed
+12004,18-34,8.5,19,subscribed
+14821,18-34,12.41,14,subscribed
+10129,under 18,5.53,11,subscribed
+15527,35 and over,4.25,22,subscribed
+10905,18-34,5.21,9,subscribed
+12953,18-34,10.42,13,subscribed
+16259,35 and over,8.82,16,subscribed
+17430,35 and over,4.0,6,churned
+13606,35 and over,7.9,18,subscribed
+13258,18-34,12.31,3,churned
+19955,18-34,9.3,14,subscribed
+14045,35 and over,4.31,12,subscribed
+10800,35 and over,8.72,11,subscribed
+14778,35 and over,4.19,16,subscribed
+17612,35 and over,6.0,8,subscribed
+10805,35 and over,2.47,5,churned
+16973,35 and over,2.47,8,subscribed
+13544,under 18,6.84,10,subscribed
+17632,18-34,5.2,15,subscribed
+18333,18-34,5.6,15,subscribed
+15950,18-34,10.01,6,churned
+10333,under 18,8.53,6,churned
+10540,under 18,4.15,5,churned
+15059,35 and over,6.45,22,subscribed
+12956,under 18,5.44,13,subscribed
+14614,18-34,8.54,11,subscribed
+19276,18-34,6.57,15,subscribed
+14061,35 and over,2.7,2,churned
+14903,under 18,7.4,11,subscribed
+15671,18-34,9.65,16,subscribed
+10318,35 and over,3.77,11,subscribed
+15309,18-34,11.48,12,subscribed
+17670,under 18,11.02,2,churned
+18324,18-34,8.02,21,subscribed
+14585,35 and over,5.62,4,subscribed
+19861,35 and over,3.62,2,churned
+14420,under 18,8.95,4,churned
+16159,35 and over,4.85,14,subscribed
+14972,18-34,8.23,23,subscribed
+13825,under 18,6.45,4,subscribed
+12118,18-34,7.42,17,subscribed
+11964,under 18,6.71,15,subscribed
+12243,35 and over,1.58,4,churned
+18581,18-34,8.56,8,churned
+17256,18-34,10.43,20,subscribed
+10162,18-34,8.14,6,churned
+19837,35 and over,6.71,17,subscribed
+12397,35 and over,3.46,3,churned
+16328,35 and over,4.18,18,subscribed
+14218,18-34,2.11,3,churned
+17872,18-34,9.33,9,subscribed
+19133,18-34,9.01,18,subscribed
+14962,under 18,2.52,6,churned
+17449,35 and over,5.12,13,subscribed
+19198,35 and over,2.55,6,churned
+10569,35 and over,4.86,7,subscribed
+17146,35 and over,3.68,6,churned
+10101,under 18,4.3,5,churned
+19828,under 18,5.39,18,subscribed
+19632,35 and over,3.81,5,churned
+13680,35 and over,2.92,6,churned
+15353,18-34,6.57,7,churned
+10994,18-34,8.54,18,subscribed
+12309,18-34,11.41,10,subscribed
+10513,35 and over,4.3,6,subscribed
+13129,35 and over,4.54,8,subscribed
+16690,under 18,6.78,20,subscribed
+16983,under 18,4.2,4,churned
+13255,18-34,12.37,9,churned
+15132,35 and over,2.93,6,churned
+16334,under 18,6.33,15,subscribed
+16558,18-34,8.31,17,subscribed
+11780,35 and over,4.22,16,subscribed
+11112,18-34,9.52,9,subscribed
+12022,18-34,9.15,4,subscribed
+18414,under 18,3.85,6,churned
+17551,35 and over,3.1,4,churned
+10764,under 18,7.18,22,subscribed
+19054,35 and over,3.75,7,churned
+11203,18-34,6.46,13,subscribed
+13267,under 18,2.55,5,churned
+13294,18-34,5.28,10,subscribed
+11999,under 18,5.84,13,subscribed
+19417,under 18,3.62,4,churned
+12834,under 18,7.57,7,churned
+10472,18-34,7.98,13,subscribed
+14683,35 and over,2.67,2,churned
+10119,18-34,7.05,2,churned
+16586,35 and over,2.04,3,churned
+16523,under 18,4.86,4,churned
+13902,35 and over,5.23,4,churned
+16729,35 and over,4.7,14,subscribed
+18972,35 and over,6.76,19,subscribed
+11187,18-34,5.02,5,churned
+18000,under 18,4.84,17,subscribed
+16741,18-34,6.83,9,subscribed
+13034,18-34,7.76,7,churned
+12111,35 and over,8.43,17,subscribed
+10801,35 and over,2.9,6,churned
+13884,under 18,7.63,14,subscribed
+18109,18-34,6.63,7,subscribed
+19966,under 18,7.29,8,subscribed
+13934,35 and over,8.81,11,subscribed
+10271,under 18,3.52,5,churned
+17439,35 and over,3.12,23,subscribed
+10112,35 and over,5.25,8,subscribed
+10692,35 and over,2.37,5,churned
+11164,18-34,8.19,8,subscribed
+14958,35 and over,3.78,8,churned
